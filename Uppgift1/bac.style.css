@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(255, 245, 240);
+}
+
+p {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.meny {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.snurre {
+    display: flex;
+    justify-content: space-evenly;
+}
+
